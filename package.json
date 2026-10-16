@@ -1,0 +1,20 @@
+{
+  "name": "stremio-addon",
+  "version": "1.0.0",
+  "description": "Stremio addon: public-domain movies from Internet Archive",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "stremio-addon-sdk": "^1.6.10"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "private": true
+}
